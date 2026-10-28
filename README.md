@@ -73,7 +73,7 @@ The test cases and their results are documented in "tests/test_samples.md".
 
 The tests cover a normal example URL, an IP address with HTTP, an "@" symbol, many hostname segments, and a punycode marker.
 
- 8.1 Screenshot Evidence
+### Screenshot Evidence
 
 ![Sample run showing IP address and HTTP warnings](screenshots/sample_run.png)
 
