@@ -78,6 +78,8 @@ The tests cover a normal example URL, an IP address with HTTP, an "@" symbol, ma
 ![Sample run showing IP address and HTTP warnings](screenshots/sample_run.png)
 
 ![Test results showing the punycode warning](screenshots/test_results.png)
+
+
 9. Improvements Implemented
 
 Repeated URL checking
