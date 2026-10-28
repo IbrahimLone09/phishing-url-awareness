@@ -73,12 +73,13 @@ The test cases and their results are documented in "tests/test_samples.md".
 
 The tests cover a normal example URL, an IP address with HTTP, an "@" symbol, many hostname segments, and a punycode marker.
 
-## Screenshot Evidence
+### Sample Run — IP Address and HTTP Warnings
 
 ![Sample run showing IP address and HTTP warnings](screenshots/sample_run.png)
 
-![Test results showing the punycode warning](screenshots/test_results.png)
+### Test Results — Punycode Warning
 
+![Test results showing the punycode warning](screenshots/test_results.png)
 
 9. Improvements Implemented
 
