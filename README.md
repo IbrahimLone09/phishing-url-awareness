@@ -121,7 +121,7 @@ Use this project for educational purposes and authorized testing. Do not enter p
 
 12. Author
 
-Name: [IBRAHIM NAZIR]
+Name: IBRAHIM NAZIR
 
 Project: Phishing URL Awareness Checker
 
