@@ -46,11 +46,11 @@ No additional Python packages are required.
 
 6. How to Run
 
-1. Open the project folder in Visual Studio Code.
-2. Open "phishing_checker.py".
-3. Run the file using Run Without Debugging or "Ctrl + F5".
-4. Enter a sample URL when prompted.
-5. Enter "q" to exit the program.
+6.1 Open the project folder in Visual Studio Code.
+6.2 Open "phishing_checker.py".
+6.3 Run the file using Run Without Debugging or "Ctrl + F5".
+6.4 Enter a sample URL when prompted.
+6.5 Enter "q" to exit the program.
 
 7. Sample Output
 
